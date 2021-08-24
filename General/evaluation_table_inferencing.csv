@@ -1,0 +1,2 @@
+Stage,MAE,RMSE,Accuracy(500),Step4,Step6.1,Step6.2,Adopted_hidden_node
+Inferencing,162.22,233.8,93.14,748,1,58,175

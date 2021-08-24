@@ -1,0 +1,2 @@
+Stage,MAE,MAPE,RMSE,Accuracy(2000),Accuracy(3000),Step4,Step6.1,Step6.2,Adopted_hidden_node,Accuracy(500)
+Training,0.0,,0.0,,,10,0,0,1,100.0
