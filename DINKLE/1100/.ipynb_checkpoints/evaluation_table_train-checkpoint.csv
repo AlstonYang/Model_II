@@ -1,0 +1,2 @@
+Stage,MAE,RMSE,Accuracy(500),SD of absolute error,Step4,Step6.1,Step6.2,Adopted_hidden_node
+Training,290.44,345.09,90.11,186.45,936,0,25,76
